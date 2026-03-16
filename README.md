@@ -50,6 +50,33 @@ Esto permite mantener separada la lógica de negocio, las rutas HTTP y la gesti�
 
 ---
 
+## Demo
+
+El proyecto completo no se encuentra desplegado públicamente.
+Las siguientes capturas muestran algunas de las pantallas principales del sistema.
+
+---
+
+## Screenshots
+
+### Login
+
+Pantalla de autenticación de usuarios.
+
+![Login](./docs/login.png)
+
+### Dashboard
+
+Vista principal con métricas y acceso a las funcionalidades del sistema.
+
+![Dashboard](./docs/dashboard.png)
+
+### Perfil de usuario
+
+Gestión de información personal del usuario.
+
+![Perfil](./docs/profile.png)
+
 ## Nota
 
 El proyecto completo incluye:
